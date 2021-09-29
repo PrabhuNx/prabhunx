@@ -106,7 +106,30 @@
         ],
         "subproduct":
           [    
-            
+             {
+              "title": "Prod1",
+              "name" : "q121",
+              "description": "Lorem Ipsum is simply dummy text",
+              "childUrl": "_1"
+            },
+            {
+              "title": "Prod1",
+              "name" : "q122",
+              "description": "Lorem Ipsum is simply dummy text",
+              "childUrl": "_2"
+            },
+             {
+              "title": "Prod1",
+              "name" : "q122",
+              "description": "Lorem Ipsum is simply dummy text",
+              "childUrl": "_2"
+            }, 
+            {
+              "title": "Prod1",
+              "name" : "q122",
+              "description": "Lorem Ipsum is simply dummy text",
+              "childUrl": "_2"
+            }
           ]
       }
     },
