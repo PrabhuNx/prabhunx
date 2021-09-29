@@ -6,7 +6,7 @@
 			"defaultExt": "",
 			"path":"https://raw.githubusercontent.com/siaistudio/Compasmodels/master/Amazonfavicon.jpg",
       			"title":"Amazon India",
-			"hybridModelBaseUrl":"https://raw.githubusercontent.com/siaistudio/Compasmodels/master/TestHybrid.json",
+			"hybridModelBaseUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/TestHybrid.json",
 			"isDirectLoad":true
 
 		},
@@ -23,7 +23,7 @@
 			"defaultExt": "",
 			"path":"https://raw.githubusercontent.com/siaistudio/Compasmodels/master/Amazonfavicon.jpg",
 			"title":"Amazon US",
-			"hybridModelBaseUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/HybridData.json",
+			"hybridModelBaseUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/TestHybrid.json",
 			"isDirectLoad":false
 		},
 		{
@@ -63,7 +63,7 @@
 			"defaultExt": "",
 			"path":"https://raw.githubusercontent.com/siaistudio/Compasmodels/master/TataCliqfavicon.jpg",
       			"title":"Tatacliq",
-			"hybridModelBaseUrl":"https://raw.githubusercontent.com/siaistudio/Compasmodels/master/TestHybrid.json",
+			"hybridModelBaseUrl":"",
 			"isDirectLoad":true
 		}
 	],
