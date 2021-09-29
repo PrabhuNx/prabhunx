@@ -943,7 +943,12 @@
         ],
         "subproduct":
           [    
-            
+            {
+              "title": "Style 1",
+              "name" : "T12",
+              "description": "Lorem Ipsum is simply dummy text",
+              "childUrl": "_1"
+            }
           ]
       }
     },
