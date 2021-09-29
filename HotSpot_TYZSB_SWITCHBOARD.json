@@ -1,0 +1,25 @@
+{
+	"nodeName": "TYZSB_SWITCHBOARD",
+	"hotspots": [{
+		"x": -2,
+		"y": 80,
+		"z": 0,
+		"details": "Section",
+		"tag": "one",
+		"type": "text"
+	}, {
+		"x": -2,
+		"y": 2,
+		"z": 0,
+		"details": "Aux box",
+		"tag": "two",
+		"type": "widget2"
+	}, {
+		"x": -10,
+		"y": 2,
+		"z": 0,
+		"details": "Aux box",
+		"tag": "three",
+		"type": "widget3"
+	}]
+}

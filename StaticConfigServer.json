@@ -1,0 +1,15 @@
+{
+	"data": [{
+			"designation": "SBD3",
+			"jsonUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/ConfigSwitchboardSBD3.json"
+		},
+		{
+			"designation": "SBD2",
+			"jsonUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/ConfigSwitchboardSBD2.json"
+		},
+		{
+			"designation": "SBD1",
+			"jsonUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/ConfigSwitchboardSBD3.json"
+		}
+	]
+}
