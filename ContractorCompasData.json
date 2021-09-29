@@ -1,78 +1,79 @@
 {
 
-	"url": [{
-			"environment": "https://contractor.compas.siemens-info.com/",
+	"url": [
+		{
+			"environment": "https://www.amazon.in/",
 			"defaultExt": "",
-			"path":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/eed431ad3401f3d3b010ba9063c3cec4a6ccc171/icon-siemens.png",
-      			"title":"Testing",
+			"path":"https://raw.githubusercontent.com/siaistudio/Compasmodels/master/Amazonfavicon.jpg",
+      			"title":"Amazon India",
+			"hybridModelBaseUrl":"https://raw.githubusercontent.com/siaistudio/Compasmodels/master/TestHybrid.json",
+			"isDirectLoad":true
+
+		},
+		{
+			"environment": "https://www.flipkart.com/",
+			"defaultExt": "",
+			"path":"https://static-assets-web.flixcart.com/www/promos/new/20150528-140547-favicon-retina.ico",
+      			"title":"Flipkart",
+			"hybridModelBaseUrl":"",
+			"isDirectLoad":false
+		},
+		{
+			"environment": "https://www.amazon.com/Q120-20-Amp-Single-Circuit-Breaker/dp/B00002N5HG",
+			"defaultExt": "",
+			"path":"https://raw.githubusercontent.com/siaistudio/Compasmodels/master/Amazonfavicon.jpg",
+			"title":"Amazon US",
 			"hybridModelBaseUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/HybridData.json",
+			"isDirectLoad":false
+		},
+		{
+			"environment": "https://www.myntra.com/",
+			"defaultExt": "",
+			"path":"https://raw.githubusercontent.com/siaistudio/Compasmodels/master/Myntrafavicon.jpg",
+      			"title":"Myntra",
+			"hybridModelBaseUrl":"",
+			"isDirectLoad":false
+		},		
+		{
+			"environment": "https://www.kohls.com/",
+			"defaultExt": "",
+			"path":"https://raw.githubusercontent.com/siaistudio/Compasmodels/master/kohlsicon.jpg",
+      			"title":"Kohls",
+			"hybridModelBaseUrl":"",
+			"isDirectLoad":false
+		},
+		{
+			"environment": "https://www.macys.com/",
+			"defaultExt": "",
+			"path":"https://raw.githubusercontent.com/siaistudio/Compasmodels/master/Macysfavicon.jpg",
+      			"title":"Macys",
+			"hybridModelBaseUrl":"",
+			"isDirectLoad":false
+		},
+		{
+			"environment": "https://www.jcpenney.com/",
+			"defaultExt": "",
+			"path":"https://raw.githubusercontent.com/siaistudio/Compasmodels/master/JCPfavicon.jpg",
+      			"title":"JCPenney",
+			"hybridModelBaseUrl":"",
+			"isDirectLoad":false
+		},
+		{
+			"environment": "https://www.tatacliq.com/",
+			"defaultExt": "",
+			"path":"https://raw.githubusercontent.com/siaistudio/Compasmodels/master/TataCliqfavicon.jpg",
+      			"title":"Tatacliq",
+			"hybridModelBaseUrl":"https://raw.githubusercontent.com/siaistudio/Compasmodels/master/TestHybrid.json",
 			"isDirectLoad":true
-		},
-		{
-			"environment": "https://www.siemens.com/global/en.html",
-			"defaultExt": "",
-			"path":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Testfavicon.ico",
-			"title":"New Siemens",
-			"hybridModelBaseUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/TestHybrid.json",
-			"isDirectLoad":true
-		},
-		{
-			"environment": "https://beta.compasquality.siemens-info.com/",
-			"defaultExt": "mCompas/",
-			"path":"https://www.dropbox.com/s/of2n2yz185a6gyg/screenshot%403x.png?dl=1",
-      			"title":"Header3",
-			"hybridModelBaseUrl":"",
-			"isDirectLoad":false
-		},
-		{
-		
-			"environment": "https://q02.compasquality.siemens-info.com/",
-			"defaultExt": "mCompas_SQR/",
-			"path":"https://www.dropbox.com/s/of2n2yz185a6gyg/screenshot%403x.png?dl=1",
-      			"title":"Header4",
-			"hybridModelBaseUrl":"",
-			"isDirectLoad":false
-		},
-		{
-			"environment": "https://d09.compasquality.siemens-info.com/",
-			"defaultExt": "COMPASAppStore/ConsultantContractor/",
-			"path":"https://www.dropbox.com/s/of2n2yz185a6gyg/screenshot%403x.png?dl=1",
-      			"title":"Header5",
-			"hybridModelBaseUrl":"",
-			"isDirectLoad":false
-		},
-		{
-			"environment": "https://d07.compasquality.siemens-info.com/",
-			"defaultExt": "mCompas_SQR/",
-			"path":"https://www.dropbox.com/s/of2n2yz185a6gyg/screenshot%403x.png?dl=1",
-      			"title":"Header6",
-			"hybridModelBaseUrl":"",
-			"isDirectLoad":false
-		},
-		{
-			"environment": "https://www.amazon.com/Q120-20-Amp-Single-Circuit-Breaker/dp/B00002N5HG",
-			"defaultExt": "",
-			"path":"https://www.amazon.in/favicon.ico",
-      			"title":"Amazon",
-			"hybridModelBaseUrl":"",
-			"isDirectLoad":false
-		},
-		{
-			"environment": "https://www.amazon.com/Q120-20-Amp-Single-Circuit-Breaker/dp/B00002N5HG",
-			"defaultExt": "",
-			"path":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Testfavicon.ico",
-      			"title":"New Amazon",
-			"hybridModelBaseUrl":"",
-			"isDirectLoad":false
 		}
 	],
 	"hotspotsEnable": true,
 	"useC3Models" : "true",
 	"useSandy": false,
-	"version": "23",
+	"version": "29",
 	"majorversion":"4",
-	"minorversion":"4",
+	"minorversion":"5",
 	"modelUrlBase": "https://beta.compasquality.siemens-info.com/c3services/doc/d5/",
-	"androidModelUrlBase" : "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/AndroidData.json",
-	"iOSModelUrlBase": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/iOSData.json"
+	"androidModelUrlBase" : "https://raw.githubusercontent.com/siaistudio/Compasmodels/master/AndroidData.json",
+	"iOSModelUrlBase": "https://raw.githubusercontent.com/siaistudio/Compasmodels/master/iOSData.json"
 }
