@@ -32,7 +32,7 @@
           "yAngle":0,
           "zAngle":0
         },
-        "hybridFacets": [
+        "baseProduct": [
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
@@ -43,7 +43,11 @@
             "facetName": "Quad_2",
             "imageUrl": "https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1"
           }
-        ]
+        ],
+        "subproduct":
+          [    
+            
+          ]
       }
     },
      {
@@ -78,7 +82,7 @@
           "yAngle":0,
           "zAngle":0
         },
-        "hybridFacets": [
+        "baseProduct": [
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
@@ -99,7 +103,11 @@
             "facetName": "Quad_4",
             "imageUrl": "https://www.dropbox.com/s/4c3f5azrhyxves8/q120_R.png?dl=1"
           }
-        ]
+        ],
+        "subproduct":
+          [    
+            
+          ]
       }
     },
 	{
@@ -134,7 +142,7 @@
           "yAngle":0,
           "zAngle":0
         },
-        "hybridFacets": [
+        "baseProduct": [
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
@@ -145,7 +153,11 @@
             "facetName": "Quad_2",
             "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/1629618695Front.png"
           }
-        ]
+        ],
+        "subproduct":
+          [    
+            
+          ]
       }
     },
     {
@@ -180,7 +192,7 @@
           "yAngle":0,
           "zAngle":0
         },
-        "hybridFacets": [
+        "baseProduct": [
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
@@ -191,7 +203,11 @@
             "facetName": "Quad_2",
             "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/1629618695Front.png"
           }
-        ]
+        ],
+        "subproduct":
+          [    
+            
+          ]
       }
     },
     {
@@ -226,7 +242,7 @@
           "yAngle":0,
           "zAngle":0
         },
-        "hybridFacets": [
+        "baseProduct": [
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
@@ -237,7 +253,11 @@
             "facetName": "Quad_2",
             "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B01AWNV0QW.png"
           }
-        ]
+        ],
+        "subproduct":
+          [    
+            
+          ]
       }
     },
     {
@@ -272,7 +292,7 @@
           "yAngle":0,
           "zAngle":0
         },
-        "hybridFacets": [
+        "baseProduct": [
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
@@ -283,7 +303,11 @@
             "facetName": "Quad_2",
             "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B01FX6ZDY8.png"
           }
-        ]
+        ],
+        "subproduct":
+          [    
+            
+          ]
       }
     },
     {
@@ -318,7 +342,7 @@
           "yAngle":0,
           "zAngle":0
         },
-        "hybridFacets": [
+        "baseProduct": [
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
@@ -329,7 +353,11 @@
             "facetName": "Quad_2",
             "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B08PNMVLSP.png"
           }
-        ]
+        ],
+        "subproduct":
+          [    
+            
+          ]
       }
     },
     {
@@ -364,7 +392,7 @@
           "yAngle":0,
           "zAngle":0
         },
-        "hybridFacets": [
+        "baseProduct": [
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
@@ -375,7 +403,11 @@
             "facetName": "Quad_2",
             "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B085M5WKCW.png"
           }
-        ]
+        ],
+        "subproduct":
+          [    
+            
+          ]
       }
     },
     {
@@ -410,7 +442,7 @@
           "yAngle":0,
           "zAngle":0
         },
-        "hybridFacets": [
+        "baseProduct": [
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
@@ -421,7 +453,11 @@
             "facetName": "Quad_2",
             "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B07PT7L5KD.png"
           }
-        ]
+        ],
+        "subproduct":
+          [    
+            
+          ]
       }
     },
     {
@@ -456,7 +492,7 @@
           "yAngle":0,
           "zAngle":0
         },
-        "hybridFacets": [
+        "baseProduct": [
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
@@ -467,7 +503,11 @@
             "facetName": "Quad_2",
             "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B010XWCKHA.png"
           }
-        ]
+        ],
+        "subproduct":
+          [    
+            
+          ]
       }
     },  
     {
@@ -502,7 +542,7 @@
           "yAngle":0,
           "zAngle":0
         },
-        "hybridFacets": [
+        "baseProduct": [
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
@@ -513,7 +553,11 @@
             "facetName": "Quad_2",
             "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B08VW7P7DF.png"
           }
-        ]
+        ],
+        "subproduct":
+          [    
+            
+          ]
       }
     },
 	  {
@@ -548,7 +592,7 @@
           "yAngle":0,
           "zAngle":0
         },
-        "hybridFacets": [
+        "baseProduct": [
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
@@ -559,7 +603,11 @@
             "facetName": "Quad_2",
             "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B06Y2BYQCC.png"
           }
-        ]
+        ],
+        "subproduct":
+          [    
+            
+          ]
       }
     },
     {
@@ -594,7 +642,7 @@
           "yAngle":0,
           "zAngle":0
         },
-        "hybridFacets": [
+        "baseProduct": [
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
@@ -605,7 +653,11 @@
             "facetName": "Quad_2",
             "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B010XWCKHA.png"
           }
-        ]
+        ],
+        "subproduct":
+          [    
+            
+          ]
       }
     },
     {
@@ -640,7 +692,7 @@
           "yAngle":0,
           "zAngle":0
         },
-        "hybridFacets": [
+        "baseProduct": [
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
@@ -651,7 +703,11 @@
             "facetName": "Quad_2",
             "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B07L95S8N6.png"
           }
-        ]
+        ],
+        "subproduct":
+          [    
+            
+          ]
       }
     },
     {
@@ -686,7 +742,7 @@
           "yAngle":0,
           "zAngle":0
         },
-        "hybridFacets": [
+        "baseProduct": [
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
@@ -697,7 +753,11 @@
             "facetName": "Quad_2",
             "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B07BFDCRVP.png"
           }
-        ]
+        ],
+        "subproduct":
+          [    
+            
+          ]
       }
     },
 	{
@@ -732,7 +792,7 @@
           "yAngle":0,
           "zAngle":0
         },
-        "hybridFacets": [
+        "baseProduct": [
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
@@ -743,7 +803,11 @@
             "facetName": "Quad_2",
             "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B00AFV4OWO.jpg"
           }
-        ]
+        ],
+        "subproduct":
+          [    
+            
+          ]
       }
     },
      {
@@ -765,7 +829,7 @@
         "length": 1,
         "width": 0.1,
         "height": 1,
-        "hybridFacets": [
+        "baseProduct": [
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
@@ -776,7 +840,11 @@
             "facetName": "Quad_2",
             "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B093HB2HYW.png"
           }
-        ]
+        ],
+        "subproduct":
+          [    
+            
+          ]
       }
     },
 	{
@@ -811,7 +879,7 @@
           "yAngle":0,
           "zAngle":0
         },
-        "hybridFacets": [
+        "baseProduct": [
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
@@ -822,7 +890,11 @@
             "facetName": "Quad_2",
             "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B00AFV4OWO.png"
           }
-        ]
+        ],
+        "subproduct":
+          [    
+            
+          ]
       }
     },
 	{
@@ -857,7 +929,7 @@
           "yAngle":0,
           "zAngle":0
         },
-        "hybridFacets": [
+        "baseProduct": [
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
@@ -868,7 +940,11 @@
             "facetName": "Quad_2",
             "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B084DN269N.jpg"
           }
-        ]
+        ],
+        "subproduct":
+          [    
+            
+          ]
       }
     },
 	{
@@ -903,7 +979,7 @@
           "yAngle":0,
           "zAngle":0
         },
-        "hybridFacets": [
+        "baseProduct": [
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
@@ -914,7 +990,11 @@
             "facetName": "Quad_2",
             "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B084DN5V37.jpg"
           }
-        ]
+        ],
+        "subproduct":
+          [    
+            
+          ]
       }
     },
    {
@@ -949,7 +1029,7 @@
           "yAngle":0,
           "zAngle":0
         },
-        "hybridFacets": [
+        "baseProduct": [
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
@@ -960,7 +1040,11 @@
             "facetName": "Quad_2",
             "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B09CKZQWSVfront.png"
           }
-        ]
+        ],
+        "subproduct":
+          [    
+            
+          ]
       }
     },
     {
@@ -995,7 +1079,7 @@
           "yAngle":0,
           "zAngle":0
         },
-        "hybridFacets": [
+        "baseProduct": [
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
@@ -1006,7 +1090,11 @@
             "facetName": "Quad_2",
             "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B07LBXVH4L.png"
           }
-        ]
+        ],
+        "subproduct":
+          [    
+            
+          ]
       }
     },
 	  {
@@ -1041,7 +1129,7 @@
           "yAngle":0,
           "zAngle":0
         },
-        "hybridFacets": [
+        "baseProduct": [
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
@@ -1052,7 +1140,11 @@
             "facetName": "Quad_2",
             "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B09FHSJK8Q.png"
           }
-        ]
+        ],
+        "subproduct":
+          [    
+            
+          ]
       }
     },
     {
@@ -1087,7 +1179,7 @@
           "yAngle":0,
           "zAngle":0
         },
-        "hybridFacets": [
+        "baseProduct": [
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
@@ -1098,7 +1190,11 @@
             "facetName": "Quad_2",
             "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B09CM9Z4JW.png"
           }
-        ]
+        ],
+        "subproduct":
+          [    
+            
+          ]
       }
     },
     {
@@ -1133,7 +1229,7 @@
           "yAngle":0,
           "zAngle":0
         },
-        "hybridFacets": [
+        "baseProduct": [
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
@@ -1154,7 +1250,11 @@
             "facetName": "Quad_4",
             "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B0848LHW8Nright.png"
           }
-        ]
+        ],
+        "subproduct":
+          [    
+            
+          ]
       }
     },
     {
@@ -1175,7 +1275,7 @@
         "length": -1,
         "width": -1,
         "height": -1,
-        "hybridFacets": [
+        "baseProduct": [
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
@@ -1186,7 +1286,11 @@
             "facetName": "Quad_2",
             "imageUrl": ""
           }
-        ]
+        ],
+        "subproduct":
+          [    
+            
+          ]
       }
     }
   ]
