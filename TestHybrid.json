@@ -1,4 +1,56 @@
 {
+  "products": [
+    {
+      "title": "buswaysystems.unity3d",
+      "name": "buswaysystems",
+      "webUrlName": "busway-systems",
+       "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365602",
+      "version": "1.0",
+      "uuid": "a804701c-7f5b-4747-92e7-80cb9208c4e7",
+      "isHybrid": true,
+      "hybridData": {
+        "type": 1,
+        "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/blob/master/AssetBundles/Hybrid/Android/buswaysystem?raw=true",
+        "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/blob/master/AssetBundles/Hybrid/iOS/subwaysystem?raw=true",
+        "hybridName": "buswaysystem",
+        "hybridHotspotUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/HotspotBuswaySystem.json", 
+        "markerUrl":"",
+        "version" : 0,
+		"markerARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+          "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+           "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "baseProduct": [
+          {
+            "facetTagId": "1",
+            "facetName": "Quad_1",
+            "imageUrl": "https://www.dropbox.com/s/6m9mouaucfrnmop/tree-736885__480.jpg?dl=1"
+          },
+          {
+            "facetTagId": "2",
+            "facetName": "Quad_2",
+            "imageUrl": "https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1"
+          }
+        ],
+        "subproduct":
+          [    
+            
+          ]
+      }
+    },
+     {
       "title": "buswaysystems.unity3d",
       "name": "B00002N5HG",
       "webUrlName": "B00002N5HG",
@@ -80,4 +132,1194 @@
             }
           ]
       }
+    },
+	{
+      "title": "buswaysystems.unity3d",
+      "name": "C00002N5HG",
+      "webUrlName": "C00002N5HG",
+      "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365602",
+      "version": "1.0",
+      "uuid": "a804701c-7f5b-4747-92e7-80cb9208c4e7",
+      "isHybrid": true,
+      "hybridData": {
+        "type": 1,
+        "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
+        "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
+        "hybridName": "b00002n5hg",
+        "hybridHotspotUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/HotspotB00002N5HG.json", 
+        "markerUrl":"",
+        "version" : 1,
+        "markerARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+          "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+           "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "baseProduct": [
+          {
+            "facetTagId": "1",
+            "facetName": "Quad_1",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/1629618695Back.png"
+          },
+          {
+            "facetTagId": "2",
+            "facetName": "Quad_2",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/1629618695Front.png"
+          }
+        ],
+        "subproduct":
+          [    
+            
+          ]
+      }
+    },
+    {
+      "title": "buswaysystems.unity3d",
+      "name": "B094J7TZ93",
+      "webUrlName": "B094J7TZ93",
+      "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365602",
+      "version": "1.0",
+      "uuid": "a804701c-7f5b-4747-92e7-80cb9208c4e7",
+      "isHybrid": true,
+      "hybridData": {
+        "type": 1,
+        "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
+        "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
+        "hybridName": "b00002n5hg",
+        "hybridHotspotUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/HotspotB00002N5HG.json", 
+        "markerUrl":"",
+        "version" : 1,
+        "markerARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+          "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+           "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "baseProduct": [
+          {
+            "facetTagId": "1",
+            "facetName": "Quad_1",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/1629618695Back.png"
+          },
+          {
+            "facetTagId": "2",
+            "facetName": "Quad_2",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/1629618695Front.png"
+          }
+        ],
+        "subproduct":
+          [    
+            
+          ]
+      }
+    },
+    {
+      "title": "buswaysystems.unity3d",
+      "name": "B01AWNV0QW",
+      "webUrlName": "B01AWNV0QW",
+      "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365602",
+      "version": "1.0",
+      "uuid": "a804701c-7f5b-4747-92e7-80cb9208c4e7",
+      "isHybrid": true,
+      "hybridData": {
+        "type": 1,
+        "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
+        "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
+        "hybridName": "b00002n5hg",
+        "hybridHotspotUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/HotspotB00002N5HG.json", 
+        "markerUrl":"",
+        "version" : 1,
+        "markerARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+          "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+           "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "baseProduct": [
+          {
+            "facetTagId": "1",
+            "facetName": "Quad_1",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B01AWNV0QW.png"
+          },
+          {
+            "facetTagId": "2",
+            "facetName": "Quad_2",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B01AWNV0QW.png"
+          }
+        ],
+        "subproduct":
+          [    
+            
+          ]
+      }
+    },
+    {
+      "title": "buswaysystems.unity3d",
+      "name": "B01FX6ZDYI",
+      "webUrlName": "B01FX6ZDYI",
+      "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365602",
+      "version": "1.0",
+      "uuid": "a804701c-7f5b-4747-92e7-80cb9208c4e7",
+      "isHybrid": true,
+      "hybridData": {
+        "type": 1,
+        "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
+        "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
+        "hybridName": "b00002n5hg",
+        "hybridHotspotUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/HotspotB00002N5HG.json", 
+        "markerUrl":"",
+        "version" : 1,
+        "markerARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+          "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+           "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "baseProduct": [
+          {
+            "facetTagId": "1",
+            "facetName": "Quad_1",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B01FX6ZDY8.png"
+          },
+          {
+            "facetTagId": "2",
+            "facetName": "Quad_2",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B01FX6ZDY8.png"
+          }
+        ],
+        "subproduct":
+          [    
+            
+          ]
+      }
+    },
+    {
+      "title": "buswaysystems.unity3d",
+      "name": "B08PNRB6MV",
+      "webUrlName": "B08PNRB6MV",
+      "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365602",
+      "version": "1.0",
+      "uuid": "a804701c-7f5b-4747-92e7-80cb9208c4e7",
+      "isHybrid": true,
+      "hybridData": {
+        "type": 1,
+        "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
+        "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
+        "hybridName": "b00002n5hg",
+        "hybridHotspotUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/HotspotB00002N5HG.json", 
+        "markerUrl":"",
+        "version" : 1,
+        "markerARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+          "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+           "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "baseProduct": [
+          {
+            "facetTagId": "1",
+            "facetName": "Quad_1",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B08PNMVLSP.png"
+          },
+          {
+            "facetTagId": "2",
+            "facetName": "Quad_2",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B08PNMVLSP.png"
+          }
+        ],
+        "subproduct":
+          [    
+            
+          ]
+      }
+    },
+    {
+      "title": "buswaysystems.unity3d",
+      "name": "B085M5WKCW",
+      "webUrlName": "B085M5WKCW",
+      "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365602",
+      "version": "1.0",
+      "uuid": "a804701c-7f5b-4747-92e7-80cb9208c4e7",
+      "isHybrid": true,
+      "hybridData": {
+        "type": 1,
+        "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
+        "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
+        "hybridName": "b00002n5hg",
+        "hybridHotspotUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/HotspotB00002N5HG.json", 
+        "markerUrl":"",
+        "version" : 1,
+        "markerARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+          "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+           "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "baseProduct": [
+          {
+            "facetTagId": "1",
+            "facetName": "Quad_1",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B085M5WKCW.png"
+          },
+          {
+            "facetTagId": "2",
+            "facetName": "Quad_2",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B085M5WKCW.png"
+          }
+        ],
+        "subproduct":
+          [    
+            
+          ]
+      }
+    },
+    {
+      "title": "buswaysystems.unity3d",
+      "name": "B07PT7L5KD",
+      "webUrlName": "B07PT7L5KD",
+      "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365602",
+      "version": "1.0",
+      "uuid": "a804701c-7f5b-4747-92e7-80cb9208c4e7",
+      "isHybrid": true,
+      "hybridData": {
+        "type": 1,
+        "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
+        "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
+        "hybridName": "b00002n5hg",
+        "hybridHotspotUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/HotspotB00002N5HG.json", 
+        "markerUrl":"",
+        "version" : 1,
+        "markerARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+          "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+           "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "baseProduct": [
+          {
+            "facetTagId": "1",
+            "facetName": "Quad_1",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B07PT7L5KD.png"
+          },
+          {
+            "facetTagId": "2",
+            "facetName": "Quad_2",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B07PT7L5KD.png"
+          }
+        ],
+        "subproduct":
+          [    
+            
+          ]
+      }
+    },
+    {
+      "title": "buswaysystems.unity3d",
+      "name": "B010XWCKHA",
+      "webUrlName": "B010XWCKHA",
+      "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365602",
+      "version": "1.0",
+      "uuid": "a804701c-7f5b-4747-92e7-80cb9208c4e7",
+      "isHybrid": true,
+      "hybridData": {
+        "type": 1,
+        "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
+        "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
+        "hybridName": "b00002n5hg",
+        "hybridHotspotUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/HotspotB00002N5HG.json", 
+        "markerUrl":"",
+        "version" : 1,
+        "markerARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+          "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+           "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "baseProduct": [
+          {
+            "facetTagId": "1",
+            "facetName": "Quad_1",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B010XWCKHA.png"
+          },
+          {
+            "facetTagId": "2",
+            "facetName": "Quad_2",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B010XWCKHA.png"
+          }
+        ],
+        "subproduct":
+          [    
+            
+          ]
+      }
+    },  
+    {
+      "title": "buswaysystems.unity3d",
+      "name": "B08VWCTFZY",
+      "webUrlName": "B08VWCTFZY",
+      "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365602",
+      "version": "1.0",
+      "uuid": "a804701c-7f5b-4747-92e7-80cb9208c4e7",
+      "isHybrid": true,
+      "hybridData": {
+        "type": 1,
+        "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
+        "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
+        "hybridName": "b00002n5hg",
+        "hybridHotspotUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/HotspotB00002N5HG.json", 
+        "markerUrl":"",
+        "version" : 1,
+        "markerARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+          "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+           "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "baseProduct": [
+          {
+            "facetTagId": "1",
+            "facetName": "Quad_1",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B08VW7P7DF.png"
+          },
+          {
+            "facetTagId": "2",
+            "facetName": "Quad_2",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B08VW7P7DF.png"
+          }
+        ],
+        "subproduct":
+          [    
+            
+          ]
+      }
+    },
+	  {
+      "title": "buswaysystems.unity3d",
+      "name": "B06Y2BYQCC",
+      "webUrlName": "B06Y2BYQCC",
+      "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365602",
+      "version": "1.0",
+      "uuid": "a804701c-7f5b-4747-92e7-80cb9208c4e7",
+      "isHybrid": true,
+      "hybridData": {
+        "type": 1,
+        "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
+        "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
+        "hybridName": "b00002n5hg",
+        "hybridHotspotUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/HotspotB00002N5HG.json", 
+        "markerUrl":"",
+        "version" : 1,
+        "markerARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+          "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+           "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "baseProduct": [
+          {
+            "facetTagId": "1",
+            "facetName": "Quad_1",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B06Y2BYQCC.png"
+          },
+          {
+            "facetTagId": "2",
+            "facetName": "Quad_2",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B06Y2BYQCC.png"
+          }
+        ],
+        "subproduct":
+          [    
+            
+          ]
+      }
+    },
+    {
+      "title": "buswaysystems.unity3d",
+      "name": "B010XWCKHA",
+      "webUrlName": "B010XWCKHA",
+      "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365602",
+      "version": "1.0",
+      "uuid": "a804701c-7f5b-4747-92e7-80cb9208c4e7",
+      "isHybrid": true,
+      "hybridData": {
+        "type": 1,
+        "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
+        "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
+        "hybridName": "b00002n5hg",
+        "hybridHotspotUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/HotspotB00002N5HG.json", 
+        "markerUrl":"",
+        "version" : 1,
+       "markerARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+          "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+           "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "baseProduct": [
+          {
+            "facetTagId": "1",
+            "facetName": "Quad_1",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B010XWCKHA.png"
+          },
+          {
+            "facetTagId": "2",
+            "facetName": "Quad_2",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B010XWCKHA.png"
+          }
+        ],
+        "subproduct":
+          [    
+            
+          ]
+      }
+    },
+    {
+      "title": "buswaysystems.unity3d",
+      "name": "B07L95S8N6;B0869SFVBY",
+      "webUrlName": "B07L95S8N6;B0869SFVBY",
+      "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365602",
+      "version": "1.0",
+      "uuid": "a804701c-7f5b-4747-92e7-80cb9208c4e7",
+      "isHybrid": true,
+      "hybridData": {
+        "type": 1,
+        "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
+        "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
+        "hybridName": "b00002n5hg",
+        "hybridHotspotUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/HotspotB00002N5HG.json", 
+        "markerUrl":"",
+        "version" : 1,
+         "markerARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+          "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+           "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "baseProduct": [
+          {
+            "facetTagId": "1",
+            "facetName": "Quad_1",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B07L95S8N6.png"
+          },
+          {
+            "facetTagId": "2",
+            "facetName": "Quad_2",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B07L95S8N6.png"
+          }
+        ],
+        "subproduct":
+          [    
+            
+          ]
+      }
+    },
+    {
+      "title": "buswaysystems.unity3d",
+      "name": "B07BFDCRVP",
+      "webUrlName": "B07BFDCRVP",
+      "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365602",
+      "version": "1.0",
+      "uuid": "a804701c-7f5b-4747-92e7-80cb9208c4e7",
+      "isHybrid": true,
+      "hybridData": {
+        "type": 1,
+        "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
+        "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
+        "hybridName": "b00002n5hg",
+        "hybridHotspotUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/HotspotB00002N5HG.json", 
+        "markerUrl":"",
+        "version" : 1,
+        "markerARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+          "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+           "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "baseProduct": [
+          {
+            "facetTagId": "1",
+            "facetName": "Quad_1",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B07BFDCRVP.png"
+          },
+          {
+            "facetTagId": "2",
+            "facetName": "Quad_2",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B07BFDCRVP.png"
+          }
+        ],
+        "subproduct":
+          [    
+            
+          ]
+      }
+    },
+	{
+      "title": "buswaysystems.unity3d",
+      "name": "B00AFV4OWO",
+      "webUrlName": "B00AFV4OWO",
+      "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365602",
+      "version": "1.0",
+      "uuid": "a804701c-7f5b-4747-92e7-80cb9208c4e7",
+      "isHybrid": true,
+      "hybridData": {
+        "type": 1,
+        "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
+        "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
+        "hybridName": "b00002n5hg",
+        "hybridHotspotUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/HotspotB00002N5HG.json", 
+        "markerUrl":"",
+        "version" : 1,
+        "markerARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+          "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+           "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "baseProduct": [
+          {
+            "facetTagId": "1",
+            "facetName": "Quad_1",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B00AFV4OWO.jpg"
+          },
+          {
+            "facetTagId": "2",
+            "facetName": "Quad_2",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B00AFV4OWO.jpg"
+          }
+        ],
+        "subproduct":
+          [    
+            
+          ]
+      }
+    },
+     {
+      "title": "buswaysystems.unity3d",
+      "name": "B093HB2HYW",
+      "webUrlName": "B093HB2HYW",
+      "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365602",
+      "version": "1.0",
+      "uuid": "a804701c-7f5b-4747-92e7-80cb9208c4e7",
+      "isHybrid": true,
+      "hybridData": {
+        "type": 1,
+        "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
+        "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
+        "hybridName": "b00002n5hg",
+        "hybridHotspotUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/HotspotB00002N5HG.json", 
+        "markerUrl":"",
+        "version" : 1,
+        "length": 1,
+        "width": 0.1,
+        "height": 1,
+        "baseProduct": [
+          {
+            "facetTagId": "1",
+            "facetName": "Quad_1",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B093HB2HYW.png"
+          },
+          {
+            "facetTagId": "2",
+            "facetName": "Quad_2",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B093HB2HYW.png"
+          }
+        ],
+        "subproduct":
+          [    
+            
+          ]
+      }
+    },
+	{
+      "title": "buswaysystems.unity3d",
+      "name": "B00AFV4OWO",
+      "webUrlName": "B00AFV4OWO",
+      "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365602",
+      "version": "1.0",
+      "uuid": "a804701c-7f5b-4747-92e7-80cb9208c4e7",
+      "isHybrid": true,
+      "hybridData": {
+        "type": 1,
+        "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
+        "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
+        "hybridName": "b00002n5hg",
+        "hybridHotspotUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/HotspotB00002N5HG.json", 
+        "markerUrl":"",
+        "version" : 1,
+        "markerARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+          "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+           "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "baseProduct": [
+          {
+            "facetTagId": "1",
+            "facetName": "Quad_1",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B00AFV4OWO.png"
+          },
+          {
+            "facetTagId": "2",
+            "facetName": "Quad_2",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B00AFV4OWO.png"
+          }
+        ],
+        "subproduct":
+          [    
+            
+          ]
+      }
+    },
+	{
+      "title": "buswaysystems.unity3d",
+      "name": "B084DN269N",
+      "webUrlName": "B084DN269N",
+      "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365602",
+      "version": "1.0",
+      "uuid": "a804701c-7f5b-4747-92e7-80cb9208c4e7",
+      "isHybrid": true,
+      "hybridData": {
+        "type": 1,
+        "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
+        "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
+        "hybridName": "b00002n5hg",
+        "hybridHotspotUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/HotspotB00002N5HG.json", 
+        "markerUrl":"",
+        "version" : 1,
+        "markerARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+          "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": -1,
+          "width": 0.2,
+          "height": -1,
+           "xAngle": 90,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "baseProduct": [
+          {
+            "facetTagId": "1",
+            "facetName": "Quad_1",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B084DN269N.jpg"
+          },
+          {
+            "facetTagId": "2",
+            "facetName": "Quad_2",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B084DN269N.jpg"
+          }
+        ],
+        "subproduct":
+          [    
+            {
+              "title": "Style 1",
+              "name" : "T12",
+              "description": "Lorem Ipsum is simply dummy text",
+              "childUrl": "_1"
+            }
+          ]
+      }
+    },
+	{
+      "title": "buswaysystems.unity3d",
+      "name": "B084DN5V37",
+      "webUrlName": "B084DN5V37",
+      "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365602",
+      "version": "1.0",
+      "uuid": "a804701c-7f5b-4747-92e7-80cb9208c4e7",
+      "isHybrid": true,
+      "hybridData": {
+        "type": 1,
+        "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
+        "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
+        "hybridName": "b00002n5hg",
+        "hybridHotspotUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/HotspotB00002N5HG.json", 
+        "markerUrl":"",
+        "version" : 1,
+        "markerARProperties" :{
+          "length": -1,
+          "width": 0.2,
+          "height": -1,
+           "xAngle": 90,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": -1,
+          "width": 0.2,
+          "height": -1,
+           "xAngle": 90,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "baseProduct": [
+          {
+            "facetTagId": "1",
+            "facetName": "Quad_1",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B084DN5V37.jpg"
+          },
+          {
+            "facetTagId": "2",
+            "facetName": "Quad_2",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B084DN5V37.jpg"
+          }
+        ],
+        "subproduct":
+          [    
+            
+          ]
+      }
+    },
+   {
+      "title": "buswaysystems.unity3d",
+      "name": "B09CKZQWSV",
+      "webUrlName": "B09CKZQWSV",
+      "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365602",
+      "version": "1.0",
+      "uuid": "a804701c-7f5b-4747-92e7-80cb9208c4e7",
+      "isHybrid": true,
+      "hybridData": {
+        "type": 1,
+        "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
+        "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
+        "hybridName": "b00002n5hg",
+        "hybridHotspotUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/HotspotB00002N5HG.json", 
+        "markerUrl":"",
+        "version" : 1,
+        "markerARProperties" :{
+          "length": -1,
+          "width": 0.1,
+          "height": -1,
+          "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": -1,
+          "width": 0.1,
+          "height": -1,
+           "xAngle":-20,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "baseProduct": [
+          {
+            "facetTagId": "1",
+            "facetName": "Quad_1",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B09CKZQWSVback.png"
+          },
+          {
+            "facetTagId": "2",
+            "facetName": "Quad_2",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B09CKZQWSVfront.png"
+          }
+        ],
+        "subproduct":
+          [    
+            
+          ]
+      }
+    },
+    {
+      "title": "buswaysystems.unity3d",
+      "name": "B07LBXVH4L",
+      "webUrlName": "B07LBXVH4L",
+      "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365602",
+      "version": "1.0",
+      "uuid": "a804701c-7f5b-4747-92e7-80cb9208c4e7",
+      "isHybrid": true,
+      "hybridData": {
+        "type": 1,
+        "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
+        "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
+        "hybridName": "b00002n5hg",
+        "hybridHotspotUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/HotspotB00002N5HG.json", 
+        "markerUrl":"",
+        "version" : 1,
+        "markerARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+          "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+           "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "baseProduct": [
+          {
+            "facetTagId": "1",
+            "facetName": "Quad_1",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B07LBXVH4L.png"
+          },
+          {
+            "facetTagId": "2",
+            "facetName": "Quad_2",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B07LBXVH4L.png"
+          }
+        ],
+        "subproduct":
+          [    
+            
+          ]
+      }
+    },
+	  {
+      "title": "buswaysystems.unity3d",
+      "name": "B09FHSJK8Q",
+      "webUrlName": "B09FHSJK8Q",
+      "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365602",
+      "version": "1.0",
+      "uuid": "a804701c-7f5b-4747-92e7-80cb9208c4e7",
+      "isHybrid": true,
+      "hybridData": {
+        "type": 1,
+        "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
+        "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
+        "hybridName": "b00002n5hg",
+        "hybridHotspotUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/HotspotB00002N5HG.json", 
+        "markerUrl":"",
+        "version" : 1,
+        "markerARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+          "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+           "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "baseProduct": [
+          {
+            "facetTagId": "1",
+            "facetName": "Quad_1",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B09FHSJK8Q.png"
+          },
+          {
+            "facetTagId": "2",
+            "facetName": "Quad_2",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B09FHSJK8Q.png"
+          }
+        ],
+        "subproduct":
+          [    
+            
+          ]
+      }
+    },
+    {
+      "title": "buswaysystems.unity3d",
+      "name": "B09CM9Z4JW",
+      "webUrlName": "B09CM9Z4JW",
+      "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365602",
+      "version": "1.0",
+      "uuid": "a804701c-7f5b-4747-92e7-80cb9208c4e7",
+      "isHybrid": true,
+      "hybridData": {
+        "type": 1,
+        "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
+        "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
+        "hybridName": "b00002n5hg",
+        "hybridHotspotUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/HotspotB00002N5HG.json", 
+        "markerUrl":"",
+        "version" : 1,
+        "markerARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+          "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+           "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "baseProduct": [
+          {
+            "facetTagId": "1",
+            "facetName": "Quad_1",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B09CM9Z4JW.png"
+          },
+          {
+            "facetTagId": "2",
+            "facetName": "Quad_2",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B09CM9Z4JW.png"
+          }
+        ],
+        "subproduct":
+          [    
+            
+          ]
+      }
+    },
+    {
+      "title": "buswaysystems.unity3d",
+      "name": "B0848LHW8N",
+      "webUrlName": "B0848LHW8N",
+      "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365602",
+      "version": "1.0",
+      "uuid": "a804701c-7f5b-4747-92e7-80cb9208c4e7",
+      "isHybrid": true,
+      "hybridData": {
+        "type": 1,
+        "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
+        "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
+        "hybridName": "b00002n5hg",
+        "hybridHotspotUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/HotspotB00002N5HG.json", 
+        "markerUrl":"",
+        "version" : 1,
+        "markerARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+          "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+           "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "baseProduct": [
+          {
+            "facetTagId": "1",
+            "facetName": "Quad_1",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B0848LHW8Nfront.png"
+          },
+          {
+            "facetTagId": "2",
+            "facetName": "Quad_2",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B0848LHW8Nback.png"
+          },
+           {
+            "facetTagId": "3",
+            "facetName": "Quad_3",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B0848LHW8Nleft.png"
+          }, 
+          {
+            "facetTagId": "4",
+            "facetName": "Quad_4",
+            "imageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B0848LHW8Nright.png"
+          }
+        ],
+        "subproduct":
+          [    
+            
+          ]
+      }
+    },
+    {
+      "title": "transformers.unity3d",
+      "name": "transformers",
+      "webUrlName": "",
+       "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2366052",
+      "uuid": "5ae0599d-e179-436f-9f90-4203a9e792d5",
+      "isHybrid": false,
+      "hybridData": {
+        "type": 1,
+        "hybridAndroidUrl": "",
+        "hybridiOSUrl": "",
+        "hybridName": "",
+        "hybridHotspotUrl":"",
+         "markerUrl":"",
+        "version" : 0,
+        "length": -1,
+        "width": -1,
+        "height": -1,
+        "baseProduct": [
+          {
+            "facetTagId": "1",
+            "facetName": "Quad_1",
+            "imageUrl": ""
+          },
+          {
+            "facetTagId": "2",
+            "facetName": "Quad_2",
+            "imageUrl": ""
+          }
+        ],
+        "subproduct":
+          [    
+            
+          ]
+      }
     }
+  ]
+}
