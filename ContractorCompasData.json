@@ -6,7 +6,7 @@
 			"defaultExt": "",
 			"path":"https://raw.githubusercontent.com/siaistudio/Compasmodels/master/Amazonfavicon.jpg",
       			"title":"Amazon India",
-			"hybridModelBaseUrl":"https://raw.githubusercontent.com/siaistudio/Compasmodels/master/TestHybrid.json",
+			"hybridModelBaseUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/TestHybrid.json",
 			"isDirectLoad":true
 
 		},
@@ -23,13 +23,13 @@
 			"defaultExt": "",
 			"path":"https://raw.githubusercontent.com/siaistudio/Compasmodels/master/Amazonfavicon.jpg",
 			"title":"Amazon US",
-			"hybridModelBaseUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/HybridData.json",
+			"hybridModelBaseUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/TestHybrid.json",
 			"isDirectLoad":false
 		},
 		{
 			"environment": "https://www.myntra.com/",
 			"defaultExt": "",
-			"path":"https://raw.githubusercontent.com/siaistudio/Compasmodels/master/Myntrafavicon.jpg",
+			"path":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/TestHybrid.json",
       			"title":"Myntra",
 			"hybridModelBaseUrl":"",
 			"isDirectLoad":false
@@ -37,7 +37,7 @@
 		{
 			"environment": "https://www.kohls.com/",
 			"defaultExt": "",
-			"path":"https://raw.githubusercontent.com/siaistudio/Compasmodels/master/kohlsicon.jpg",
+			"path":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/TestHybrid.json",
       			"title":"Kohls",
 			"hybridModelBaseUrl":"",
 			"isDirectLoad":false
@@ -45,7 +45,7 @@
 		{
 			"environment": "https://www.macys.com/",
 			"defaultExt": "",
-			"path":"https://raw.githubusercontent.com/siaistudio/Compasmodels/master/Macysfavicon.jpg",
+			"path":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/TestHybrid.json",
       			"title":"Macys",
 			"hybridModelBaseUrl":"",
 			"isDirectLoad":false
@@ -53,7 +53,7 @@
 		{
 			"environment": "https://www.jcpenney.com/",
 			"defaultExt": "",
-			"path":"https://raw.githubusercontent.com/siaistudio/Compasmodels/master/JCPfavicon.jpg",
+			"path":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/TestHybrid.json",
       			"title":"JCPenney",
 			"hybridModelBaseUrl":"",
 			"isDirectLoad":false
@@ -61,7 +61,7 @@
 		{
 			"environment": "https://www.tatacliq.com/",
 			"defaultExt": "",
-			"path":"https://raw.githubusercontent.com/siaistudio/Compasmodels/master/TataCliqfavicon.jpg",
+			"path":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/TestHybrid.json",
       			"title":"Tatacliq",
 			"hybridModelBaseUrl":"https://raw.githubusercontent.com/siaistudio/Compasmodels/master/TestHybrid.json",
 			"isDirectLoad":true
