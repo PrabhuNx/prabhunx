@@ -961,7 +961,7 @@
           {
              
             "faceName": "Quad_2",
-            "faceImageUrl": "https://www.dropbox.com/s/x9b0bts1mmaaahn/q120_B.png?dl=1"
+            "faceImageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B084DN269N.jpg"
           }
         ],
         "subproduct":
@@ -977,18 +977,6 @@
                 "description": "Lorem Ipsum is simply dummy text2",
                 "name": "q122",
                 "title": "Prod2"
-            },
-            {
-                "childUrl": "_2",
-                "description": "Lorem Ipsum is simply dummy text3",
-                "name": "q122",
-                "title": "Prod3"
-            },
-            {
-                "childUrl": "_2",
-                "description": "Lorem Ipsum is simply dummy text4",
-                "name": "q122",
-                "title": "Prod4"
             }
           ]
       }
