@@ -1338,8 +1338,19 @@
           }
         ],
         "subproduct":
-          [    
-            
+         [    
+            {
+                "childUrl": "_1",
+                "description": "Lorem Ipsum is simply dummy text1",
+                "name": "B0848LHW8N_1",
+                "title": "Prod1"
+            },
+            {
+                "childUrl": "_2",
+                "description": "Lorem Ipsum is simply dummy text2",
+                "name": "B0848LHW8N_2",
+                "title": "Prod2"
+            }
           ]
       }
     },
