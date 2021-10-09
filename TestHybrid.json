@@ -1300,17 +1300,17 @@
         "markerUrl":"",
         "version" : 1,
         "markerARProperties" :{
-          "length": -1,"pivotPosition": 0,
+          "length": 3,"pivotPosition": 0,
           "width": -1,
-          "height": -1,
+          "height": 3,
           "xAngle":0,
           "yAngle":0,
           "zAngle":0
         },
         "markerlessARProperties" :{
-          "length": -1,"pivotPosition": 0,
+          "length": 3,"pivotPosition": 0,
           "width": -1,
-          "height": -1,
+          "height": 3,
            "xAngle":0,
           "yAngle":0,
           "zAngle":0
