@@ -10,6 +10,7 @@
       "isHybrid": true,
       "hybridData": {
         "type": 1,
+		 "bgImageUrl": "https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1",
         "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/blob/master/AssetBundles/Hybrid/Android/buswaysystem?raw=true",
         "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/blob/master/AssetBundles/Hybrid/iOS/subwaysystem?raw=true",
         "hybridName": "buswaysystem",
@@ -18,6 +19,7 @@
         "version" : 0,
 		"markerARProperties" :{
           "length": -1,
+		  "pivotPosition": 0,
           "width": -1,
           "height": -1,
           "xAngle":0,
@@ -26,6 +28,7 @@
         },
         "markerlessARProperties" :{
           "length": -1,
+		  "pivotPosition": 0,
           "width": -1,
           "height": -1,
            "xAngle":0,
@@ -60,6 +63,7 @@
       "isHybrid": true,
       "hybridData": {
         "type": 1,
+		 "bgImageUrl": "https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1",
         "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
         "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
         "hybridName": "b00002n5hg",
@@ -68,6 +72,7 @@
         "version" : 1,
         "markerARProperties" :{
           "length": -1,
+		  "pivotPosition": 0,
           "width": -1,
           "height": -1,
           "xAngle":0,
@@ -76,6 +81,7 @@
         },
         "markerlessARProperties" :{
           "length": -1,
+		  "pivotPosition": 0,
           "width": -1,
           "height": -1,
            "xAngle":0,
@@ -143,6 +149,7 @@
       "isHybrid": true,
       "hybridData": {
         "type": 1,
+		 "bgImageUrl": "https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1",
         "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
         "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
         "hybridName": "b00002n5hg",
@@ -151,6 +158,7 @@
         "version" : 1,
         "markerARProperties" :{
           "length": -1,
+		  "pivotPosition": 0,
           "width": -1,
           "height": -1,
           "xAngle":0,
@@ -159,6 +167,7 @@
         },
         "markerlessARProperties" :{
           "length": -1,
+		  "pivotPosition": 0,
           "width": -1,
           "height": -1,
            "xAngle":0,
@@ -193,6 +202,7 @@
       "isHybrid": true,
       "hybridData": {
         "type": 1,
+		 "bgImageUrl": "https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1",
         "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
         "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
         "hybridName": "b00002n5hg",
@@ -201,6 +211,7 @@
         "version" : 1,
         "markerARProperties" :{
           "length": -1,
+		  "pivotPosition": 0,
           "width": -1,
           "height": -1,
           "xAngle":0,
@@ -209,6 +220,7 @@
         },
         "markerlessARProperties" :{
           "length": -1,
+		  "pivotPosition": 0,
           "width": -1,
           "height": -1,
            "xAngle":0,
@@ -243,6 +255,7 @@
       "isHybrid": true,
       "hybridData": {
         "type": 1,
+		 "bgImageUrl": "https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1",
         "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
         "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
         "hybridName": "b00002n5hg",
@@ -251,6 +264,7 @@
         "version" : 1,
         "markerARProperties" :{
           "length": -1,
+		  "pivotPosition": 0,
           "width": -1,
           "height": -1,
           "xAngle":0,
@@ -259,6 +273,7 @@
         },
         "markerlessARProperties" :{
           "length": -1,
+		  "pivotPosition": 0,
           "width": -1,
           "height": -1,
            "xAngle":0,
@@ -293,6 +308,7 @@
       "isHybrid": true,
       "hybridData": {
         "type": 1,
+		 "bgImageUrl": "https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1",
         "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
         "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
         "hybridName": "b00002n5hg",
@@ -301,6 +317,7 @@
         "version" : 1,
         "markerARProperties" :{
           "length": -1,
+		  "pivotPosition": 0,
           "width": -1,
           "height": -1,
           "xAngle":0,
@@ -309,6 +326,7 @@
         },
         "markerlessARProperties" :{
           "length": -1,
+		  "pivotPosition": 0,
           "width": -1,
           "height": -1,
            "xAngle":0,
@@ -343,6 +361,7 @@
       "isHybrid": true,
       "hybridData": {
         "type": 1,
+		 "bgImageUrl": "https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1",
         "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
         "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
         "hybridName": "b00002n5hg",
@@ -351,6 +370,7 @@
         "version" : 1,
         "markerARProperties" :{
           "length": -1,
+		  "pivotPosition": 0,
           "width": -1,
           "height": -1,
           "xAngle":0,
@@ -359,6 +379,7 @@
         },
         "markerlessARProperties" :{
           "length": -1,
+		  "pivotPosition": 0,
           "width": -1,
           "height": -1,
            "xAngle":0,
@@ -393,6 +414,7 @@
       "isHybrid": true,
       "hybridData": {
         "type": 1,
+		 "bgImageUrl": "https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1",
         "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
         "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
         "hybridName": "b00002n5hg",
@@ -401,6 +423,7 @@
         "version" : 1,
         "markerARProperties" :{
           "length": -1,
+		  "pivotPosition": 0,
           "width": -1,
           "height": -1,
           "xAngle":0,
@@ -409,6 +432,7 @@
         },
         "markerlessARProperties" :{
           "length": -1,
+		  "pivotPosition": 0,
           "width": -1,
           "height": -1,
            "xAngle":0,
@@ -443,6 +467,7 @@
       "isHybrid": true,
       "hybridData": {
         "type": 1,
+		 "bgImageUrl": "https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1",
         "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
         "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
         "hybridName": "b00002n5hg",
@@ -451,6 +476,7 @@
         "version" : 1,
         "markerARProperties" :{
           "length": -1,
+		  "pivotPosition": 0,
           "width": -1,
           "height": -1,
           "xAngle":0,
@@ -459,6 +485,7 @@
         },
         "markerlessARProperties" :{
           "length": -1,
+		  "pivotPosition": 0,
           "width": -1,
           "height": -1,
            "xAngle":0,
@@ -493,6 +520,7 @@
       "isHybrid": true,
       "hybridData": {
         "type": 1,
+		 "bgImageUrl": "https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1",
         "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
         "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
         "hybridName": "b00002n5hg",
@@ -501,6 +529,7 @@
         "version" : 1,
         "markerARProperties" :{
           "length": -1,
+		  "pivotPosition": 0,
           "width": -1,
           "height": -1,
           "xAngle":0,
@@ -509,6 +538,7 @@
         },
         "markerlessARProperties" :{
           "length": -1,
+		  "pivotPosition": 0,
           "width": -1,
           "height": -1,
            "xAngle":0,
@@ -543,6 +573,7 @@
       "isHybrid": true,
       "hybridData": {
         "type": 1,
+		 "bgImageUrl": "https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1",
         "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
         "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
         "hybridName": "b00002n5hg",
@@ -551,6 +582,7 @@
         "version" : 1,
         "markerARProperties" :{
           "length": -1,
+		  "pivotPosition": 0,
           "width": -1,
           "height": -1,
           "xAngle":0,
@@ -559,6 +591,7 @@
         },
         "markerlessARProperties" :{
           "length": -1,
+		  "pivotPosition": 0,
           "width": -1,
           "height": -1,
            "xAngle":0,
@@ -593,6 +626,7 @@
       "isHybrid": true,
       "hybridData": {
         "type": 1,
+		 "bgImageUrl": "https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1",
         "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
         "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
         "hybridName": "b00002n5hg",
@@ -601,6 +635,7 @@
         "version" : 1,
         "markerARProperties" :{
           "length": -1,
+		  "pivotPosition": 0,
           "width": -1,
           "height": -1,
           "xAngle":0,
@@ -609,6 +644,7 @@
         },
         "markerlessARProperties" :{
           "length": -1,
+		  "pivotPosition": 0,
           "width": -1,
           "height": -1,
            "xAngle":0,
@@ -643,6 +679,7 @@
       "isHybrid": true,
       "hybridData": {
         "type": 1,
+		 "bgImageUrl": "https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1",
         "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
         "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
         "hybridName": "b00002n5hg",
@@ -651,6 +688,7 @@
         "version" : 1,
        "markerARProperties" :{
           "length": -1,
+		  "pivotPosition": 0,
           "width": -1,
           "height": -1,
           "xAngle":0,
@@ -659,6 +697,7 @@
         },
         "markerlessARProperties" :{
           "length": -1,
+		  "pivotPosition": 0,
           "width": -1,
           "height": -1,
            "xAngle":0,
@@ -693,6 +732,7 @@
       "isHybrid": true,
       "hybridData": {
         "type": 1,
+		 "bgImageUrl": "https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1",
         "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
         "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
         "hybridName": "b00002n5hg",
@@ -701,6 +741,7 @@
         "version" : 1,
          "markerARProperties" :{
           "length": -1,
+		  "pivotPosition": 0,
           "width": -1,
           "height": -1,
           "xAngle":0,
@@ -708,7 +749,7 @@
           "zAngle":0
         },
         "markerlessARProperties" :{
-          "length": -1,
+          "length": -1,"pivotPosition": 0,
           "width": -1,
           "height": -1,
            "xAngle":0,
@@ -743,6 +784,7 @@
       "isHybrid": true,
       "hybridData": {
         "type": 1,
+		 "bgImageUrl": "https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1",
         "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
         "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
         "hybridName": "b00002n5hg",
@@ -750,7 +792,7 @@
         "markerUrl":"",
         "version" : 1,
         "markerARProperties" :{
-          "length": -1,
+          "length": -1,"pivotPosition": 0,
           "width": -1,
           "height": -1,
           "xAngle":0,
@@ -758,7 +800,7 @@
           "zAngle":0
         },
         "markerlessARProperties" :{
-          "length": -1,
+          "length": -1,"pivotPosition": 0,
           "width": -1,
           "height": -1,
            "xAngle":0,
@@ -793,6 +835,7 @@
       "isHybrid": true,
       "hybridData": {
         "type": 1,
+		 "bgImageUrl": "https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1",
         "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
         "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
         "hybridName": "b00002n5hg",
@@ -800,7 +843,7 @@
         "markerUrl":"",
         "version" : 1,
         "markerARProperties" :{
-          "length": -1,
+          "length": -1,"pivotPosition": 0,
           "width": -1,
           "height": -1,
           "xAngle":0,
@@ -808,7 +851,7 @@
           "zAngle":0
         },
         "markerlessARProperties" :{
-          "length": -1,
+          "length": -1,"pivotPosition": 0,
           "width": -1,
           "height": -1,
            "xAngle":0,
@@ -843,6 +886,7 @@
       "isHybrid": true,
       "hybridData": {
         "type": 1,
+		 "bgImageUrl": "https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1",
         "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
         "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
         "hybridName": "b00002n5hg",
@@ -880,6 +924,7 @@
       "isHybrid": true,
       "hybridData": {
         "type": 1,
+		 "bgImageUrl": "https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1",
         "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
         "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
         "hybridName": "b00002n5hg",
@@ -887,7 +932,7 @@
         "markerUrl":"",
         "version" : 1,
         "markerARProperties" :{
-          "length": -1,
+          "length": -1,"pivotPosition": 0,
           "width": -1,
           "height": -1,
           "xAngle":0,
@@ -895,7 +940,7 @@
           "zAngle":0
         },
         "markerlessARProperties" :{
-          "length": -1,
+          "length": -1,"pivotPosition": 0,
           "width": -1,
           "height": -1,
            "xAngle":0,
@@ -930,6 +975,7 @@
       "isHybrid": true,
       "hybridData": {
         "type": 1,
+		 "bgImageUrl": "https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1",
         "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
         "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
         "hybridName": "b00002n5hg",
@@ -937,7 +983,7 @@
         "markerUrl":"",
         "version" : 1,
         "markerARProperties" :{
-          "length": -1,
+          "length": -1,"pivotPosition": 0,
           "width": -1,
           "height": -1,
           "xAngle":0,
@@ -945,7 +991,7 @@
           "zAngle":0
         },
         "markerlessARProperties" :{
-          "length": -1,
+          "length": -1,"pivotPosition": 0,
           "width": 0.2,
           "height": -1,
            "xAngle": 90,
@@ -991,6 +1037,7 @@
       "isHybrid": true,
       "hybridData": {
         "type": 1,
+		 "bgImageUrl": "https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1",
         "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
         "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
         "hybridName": "b00002n5hg",
@@ -998,7 +1045,7 @@
         "markerUrl":"",
         "version" : 1,
         "markerARProperties" :{
-          "length": -1,
+          "length": -1,"pivotPosition": 0,
           "width": 0.2,
           "height": -1,
            "xAngle": 90,
@@ -1006,7 +1053,7 @@
           "zAngle":0
         },
         "markerlessARProperties" :{
-          "length": -1,
+          "length": -1,"pivotPosition": 0,
           "width": 0.2,
           "height": -1,
            "xAngle": 90,
@@ -1041,6 +1088,7 @@
       "isHybrid": true,
       "hybridData": {
         "type": 1,
+		 "bgImageUrl": "https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1",
         "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
         "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
         "hybridName": "b00002n5hg",
@@ -1048,7 +1096,7 @@
         "markerUrl":"",
         "version" : 1,
         "markerARProperties" :{
-          "length": -1,
+          "length": -1,"pivotPosition": 0,
           "width": 0.1,
           "height": -1,
           "xAngle":0,
@@ -1056,7 +1104,7 @@
           "zAngle":0
         },
         "markerlessARProperties" :{
-          "length": -1,
+          "length": -1,"pivotPosition": 0,
           "width": 0.1,
           "height": -1,
            "xAngle":-20,
@@ -1091,6 +1139,7 @@
       "isHybrid": true,
       "hybridData": {
         "type": 1,
+		 "bgImageUrl": "https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1",
         "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
         "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
         "hybridName": "b00002n5hg",
@@ -1098,7 +1147,7 @@
         "markerUrl":"",
         "version" : 1,
         "markerARProperties" :{
-          "length": -1,
+          "length": -1,"pivotPosition": 0,
           "width": -1,
           "height": -1,
           "xAngle":0,
@@ -1106,7 +1155,7 @@
           "zAngle":0
         },
         "markerlessARProperties" :{
-          "length": -1,
+          "length": -1,"pivotPosition": 0,
           "width": -1,
           "height": -1,
            "xAngle":0,
@@ -1141,6 +1190,7 @@
       "isHybrid": true,
       "hybridData": {
         "type": 1,
+		 "bgImageUrl": "https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1",
         "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
         "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
         "hybridName": "b00002n5hg",
@@ -1148,7 +1198,7 @@
         "markerUrl":"",
         "version" : 1,
         "markerARProperties" :{
-          "length": -1,
+          "length": -1,"pivotPosition": 0,
           "width": -1,
           "height": -1,
           "xAngle":0,
@@ -1156,7 +1206,7 @@
           "zAngle":0
         },
         "markerlessARProperties" :{
-          "length": -1,
+          "length": -1,"pivotPosition": 0,
           "width": -1,
           "height": -1,
            "xAngle":0,
@@ -1191,6 +1241,7 @@
       "isHybrid": true,
       "hybridData": {
         "type": 1,
+		 "bgImageUrl": "https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1",
         "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
         "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
         "hybridName": "b00002n5hg",
@@ -1198,7 +1249,7 @@
         "markerUrl":"",
         "version" : 1,
         "markerARProperties" :{
-          "length": -1,
+          "length": -1,"pivotPosition": 0,
           "width": -1,
           "height": -1,
           "xAngle":0,
@@ -1206,7 +1257,7 @@
           "zAngle":0
         },
         "markerlessARProperties" :{
-          "length": -1,
+          "length": -1,"pivotPosition": 0,
           "width": -1,
           "height": -1,
            "xAngle":0,
@@ -1241,6 +1292,7 @@
       "isHybrid": true,
       "hybridData": {
         "type": 1,
+		 "bgImageUrl": "https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1",
         "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
         "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
         "hybridName": "b00002n5hg",
@@ -1248,7 +1300,7 @@
         "markerUrl":"",
         "version" : 1,
         "markerARProperties" :{
-          "length": -1,
+          "length": -1,"pivotPosition": 0,
           "width": -1,
           "height": -1,
           "xAngle":0,
@@ -1256,7 +1308,7 @@
           "zAngle":0
         },
         "markerlessARProperties" :{
-          "length": -1,
+          "length": -1,"pivotPosition": 0,
           "width": -1,
           "height": -1,
            "xAngle":0,
@@ -1300,13 +1352,14 @@
       "isHybrid": false,
       "hybridData": {
         "type": 1,
+		 "bgImageUrl": "https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1",
         "hybridAndroidUrl": "",
         "hybridiOSUrl": "",
         "hybridName": "",
         "hybridHotspotUrl":"",
          "markerUrl":"",
         "version" : 0,
-        "length": -1,
+        "length": -1,"pivotPosition": 0,
         "width": -1,
         "height": -1,
         "baseProduct": [
