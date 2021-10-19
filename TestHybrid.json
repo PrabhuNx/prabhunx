@@ -1385,27 +1385,27 @@
           {
              
             "faceName": "Quad_1",
-            "faceImageUrl": "https://www.dropbox.com/s/2g3kspdtoswql05/q120_F.png?dl=1"
+            "faceImageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/nla4837414.png"
           },
           {
              
             "faceName": "Quad_2",
-            "faceImageUrl": "https://www.dropbox.com/s/2g3kspdtoswql05/q120_F.png?dl=1"
+            "faceImageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/nla4837414.png"
           }
         ],
         "subproduct":
          [    
             {
                 "childUrl": "_1",
-                "description": "New test text1",
+                "description": "New test v text1",
                 "name": "B0848LHW8N_1",
                 "title": "Sample1"
             },
             {
                 "childUrl": "_2",
-                "description": "Lorem Ipsum is simply dummy text2",
+                "description": "New test v text1",
                 "name": "B0848LHW8N_2",
-                "title": "Prod2"
+                "title": "Sample2"
             }
           ]
       }
