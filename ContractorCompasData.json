@@ -17,6 +17,30 @@
       			"title":"Test",
 			"hybridModelBaseUrl":"",
 			"isDirectLoad":false
+		},
+		{
+			"environment": "https://www.thechennaisilks.com/30799-arn-pur-fcy-jac-38827-6-0-0.html",
+			"defaultExt": "",
+			"path":"https://static-assets-web.flixcart.com/www/promos/new/20150528-140547-favicon-retina1.ico",
+      			"title":"Chennai Silks ",
+			"hybridModelBaseUrl":"",
+			"isDirectLoad":false
+		},
+		{
+			"environment": "https://www.oriana.com/jewellery/gold-jewellery.html?cat=47&gclid=CjwKCAjw2bmLBhBREiwAZ6ugo7he2kQog8BnTZd_BtG2os0n14fgp0IZVTxo45Uw2NuvDIII4UhmkBoCmVAQAvD_BwE",
+			"defaultExt": "",
+			"path":"https://static-assets-web.flixcart.com/www/promos/new/20150528-140547-favicon-retina1.ico",
+      			"title":"GRT jewellery",
+			"hybridModelBaseUrl":"",
+			"isDirectLoad":false
+		},
+		{
+			"environment": "https://www.kalyanjewellers.net/Jewellery/Necklace/",
+			"defaultExt": "",
+			"path":"https://static-assets-web.flixcart.com/www/promos/new/20150528-140547-favicon-retina1.ico",
+      			"title":"Kalyan jewellers",
+			"hybridModelBaseUrl":"",
+			"isDirectLoad":false
 		}
 	],
 	"hotspotsEnable": true,
