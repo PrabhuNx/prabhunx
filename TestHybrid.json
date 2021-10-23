@@ -1668,6 +1668,112 @@
       }
     },
     {
+      "title": "buswaysystems.unity3d",
+      "name": "nce0627313",
+      "webUrlName": "nce0627313",
+      "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365602",
+      "version": "1.0",
+      "uuid": "a804701c-7f5b-4747-92e7-80cb9208c4e7",
+      "isHybrid": true,
+      "hybridData": {
+        "type": 1,
+		 "bgImageUrl": "https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1",
+        "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
+        "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
+        "hybridName": "b00002n5hg",
+        "hybridHotspotUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/HotspotB00002N5HG.json", 
+        "markerUrl":"",
+        "version" : 1,
+        "markerARProperties" :{
+          "length": 1,
+	  "pivotPosition": 2,
+          "width": -1,
+          "height": 1,
+          "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": 1,
+	  "pivotPosition": 2,
+          "width": -1,
+          "height": 1,
+           "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "baseProduct": [
+          {
+             
+            "faceName": "Quad_1",
+            "faceImageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/nce0627313.png"
+          },
+          {
+             
+            "faceName": "Quad_2",
+            "faceImageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/nce0627313.png"
+          }
+        ],
+        "subproduct":
+         [    
+            {
+                "childUrl": "_1",
+                "description": "Yellow Saree",
+                "name": "B0848LHW8N_1",
+                "title": "Vivaha Goddess Pure Kanchipuram Silk Saree"
+            },
+			{
+                "childUrl": "_2",
+                "description": "Green Saree",
+                "name": "B0848LHW8N_1",
+                "title": "Vivaha Goddess Pure Kanchipuram Silk Saree"
+            },
+			{
+                "childUrl": "_3",
+                "description": "Red Saree",
+                "name": "B0848LHW8N_1",
+                "title": "Vivaha Goddess Pure Kanchipuram Silk Saree"
+            },
+			{
+                "childUrl": "_4",
+                "description": "Light Green Saree",
+                "name": "B0848LHW8N_1",
+                "title": "Vivaha Goddess Pure Kanchipuram Silk Saree"
+            },
+			{
+                "childUrl": "_5",
+                "description": "Dark Red",
+                "name": "B0848LHW8N_1",
+                "title": "Vivaha Goddess Pure Kanchipuram Silk Saree"
+            },
+			{
+                "childUrl": "_6",
+                "description": "Red Saree",
+                "name": "B0848LHW8N_1",
+                "title": "Vivaha Goddess Pure Kanchipuram Silk Saree"
+            },
+			{
+                "childUrl": "_7",
+                "description": "Red Saree",
+                "name": "B0848LHW8N_1",
+                "title": "Vivaha Goddess Pure Kanchipuram Silk Saree"
+            },
+			{
+                "childUrl": "_8",
+                "description": "Red Saree",
+                "name": "B0848LHW8N_1",
+                "title": "Vivaha Goddess Pure Kanchipuram Silk Saree"
+            },
+            {
+                "childUrl": "_9",
+                "description": "Gree Saree",
+                "name": "B0848LHW8N_2",
+                "title": "Vivaha Goddess Pure Kanchipuram Silk Saree"
+            }
+          ]
+      }
+    },
+    {
       "title": "transformers.unity3d",
       "name": "transformers",
       "webUrlName": "",
