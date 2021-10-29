@@ -14,7 +14,15 @@
 			"environment": "https://google.com/",
 			"defaultExt": "",
 			"path":"https://static-assets-web.flixcart.com/www/promos/new/20150528-140547-favicon-retina1.ico",
-      			"title":"Test",
+      			"title":"Google",
+			"hybridModelBaseUrl":"",
+			"isDirectLoad":false
+		},
+		{
+			"environment": "https://www.thechennaisilks.com/girls-pure-silk-pavadai-material-nla4489744.html",
+			"defaultExt": "",
+			"path":"https://static-assets-web.flixcart.com/www/promos/new/20150528-140547-favicon-retina1.ico",
+      		"title":"Chennai Silks - Pure Silk Pavadai ",
 			"hybridModelBaseUrl":"",
 			"isDirectLoad":false
 		},
@@ -22,7 +30,7 @@
 			"environment": "https://www.thechennaisilks.com/30799-arn-pur-fcy-jac-38827-6-0-0.html",
 			"defaultExt": "",
 			"path":"https://static-assets-web.flixcart.com/www/promos/new/20150528-140547-favicon-retina1.ico",
-      			"title":"Chennai Silks ",
+      			"title":"Chennai Silks - Sarees",
 			"hybridModelBaseUrl":"",
 			"isDirectLoad":false
 		},
