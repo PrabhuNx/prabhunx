@@ -35,18 +35,26 @@
 			"isDirectLoad":false
 		},
 		{
-			"environment": "https://www.oriana.com/jewellery/gold-jewellery.html?cat=47&gclid=CjwKCAjw2bmLBhBREiwAZ6ugo7he2kQog8BnTZd_BtG2os0n14fgp0IZVTxo45Uw2NuvDIII4UhmkBoCmVAQAvD_BwE",
+			"environment": "https://www.oriana.com/jewellery/gold-jewellery/gold-necklaces.html",
 			"defaultExt": "",
 			"path":"https://static-assets-web.flixcart.com/www/promos/new/20150528-140547-favicon-retina1.ico",
-      			"title":"GRT jewellery",
+      			"title":"GRT NECKLACES",
 			"hybridModelBaseUrl":"",
 			"isDirectLoad":false
 		},
 		{
-			"environment": "https://www.kalyanjewellers.net/Jewellery/Necklace/",
+			"environment": "https://www.candere.com/gold/womens-earrings.html",
 			"defaultExt": "",
 			"path":"https://static-assets-web.flixcart.com/www/promos/new/20150528-140547-favicon-retina1.ico",
-      			"title":"Kalyan jewellers",
+      			"title":"Kalyan jewellers Earring",
+			"hybridModelBaseUrl":"",
+			"isDirectLoad":false
+		},
+		{
+			"environment": "https://www.candere.com/necklaces/ahana-nivara-gold-necklace.html",
+			"defaultExt": "",
+			"path":"https://static-assets-web.flixcart.com/www/promos/new/20150528-140547-favicon-retina1.ico",
+      			"title":"KALYAN jewellers Necklaces",
 			"hybridModelBaseUrl":"",
 			"isDirectLoad":false
 		}
