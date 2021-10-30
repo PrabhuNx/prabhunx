@@ -1284,15 +1284,15 @@
     },
     {
       "title": "buswaysystems.unity3d",
-      "name": "123456",
-      "webUrlName": "123456",
+      "name": "nivara",
+      "webUrlName": "nivara",
       "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365602",
       "version": "1.0",
       "uuid": "a804701c-7f5b-4747-92e7-80cb9208c4e7",
       "isHybrid": true,
       "hybridData": {
         "type": 1,
-		 "bgImageUrl": "https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1",
+	"bgImageUrl": "https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1",
         "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
         "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
         "hybridName": "b00002n5hg",
