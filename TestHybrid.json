@@ -1727,10 +1727,10 @@
         "markerUrl":"",
         "version" : 1,
         "markerARProperties" :{
-          "length": 3,
+          "length": 4,
 	  "pivotPosition": 3,
           "width": -1,
-          "height": 3,
+          "height": 4,
           "xAngle":0,
           "yAngle":0,
           "zAngle":0
