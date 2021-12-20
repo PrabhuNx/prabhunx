@@ -1,0 +1,101 @@
+{
+      "title": "buswaysystems.unity3d",
+      "name": "135a712900",
+      "webUrlName": "135a712900",
+      "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365602",
+      "version": "1.0",
+      "uuid": "a804701c-7f5b-4747-92e7-80cb9208c4e7",
+      "isHybrid": true,
+      "hybridData": {
+        "type": 1,
+		 "bgImageUrl": "https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1",
+        "hybridAndroidUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/centrepivot",
+        "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
+        "hybridName": "centrepivot",
+        "hybridHotspotUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/HotspotB00002N5HG.json", 
+        "markerUrl":"",
+        "version" : 1,
+        "markerARProperties" :{
+          "length": 4,
+	  "pivotPosition": 3,
+          "width": -1,
+          "height": 4,
+          "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": 1,
+	  "pivotPosition": 1,
+          "width": -1,
+          "height": 1,
+           "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "baseProduct": [
+          {
+             
+            "faceName": "Quad_1",
+            "faceImageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/GRTNecklace.png"
+          },
+          {
+             
+            "faceName": "Quad_2",
+            "faceImageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/GRTNecklace.png"
+          }
+        ],
+        "subproduct":
+         [    
+            {
+                "childUrl": "_1",
+                "description": "Score 3/5",
+                "name": "B0848LHW8N_1",
+                "title": "GRT Necklace 1"
+            },
+            {
+                "childUrl": "_2",
+                "description": "Score 4/5",
+                "name": "B0848LHW8N_2",
+                "title": "GRT Necklace 2"
+            },
+			{
+                "childUrl": "_3",
+                "description": "Score 3/5",
+                "name": "B0848LHW8N_1",
+                "title": "GRT Necklace 3"
+            },
+            {
+                "childUrl": "_4",
+                "description": "Score 3/5",
+                "name": "B0848LHW8N_2",
+                "title": "GRT Necklace 4"
+            },
+			{
+                "childUrl": "_5",
+                "description": "Score 4/5",
+                "name": "B0848LHW8N_1",
+                "title": "GRT Necklace 4"
+            },
+            {
+                "childUrl": "_6",
+                "description": "Score 4/5",
+                "name": "B0848LHW8N_2",
+                "title": "GRT Necklace 5"
+            },
+			{
+                "childUrl": "_7",
+                "description": "Score 4/5",
+                "name": "B0848LHW8N_1",
+                "title": "GRT Necklace 6"
+            },
+            {
+                "childUrl": "_8",
+                "description": "Score 4/5",
+                "name": "B0848LHW8N_2",
+                "title": "GRT Necklace 7"
+            }
+		
+          ]
+      }
+    }
