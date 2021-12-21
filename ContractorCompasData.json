@@ -1,25 +1,7 @@
 {
 
 	"url": [
-		{
-			"environment": "https://www.amazon.in/",
-			"defaultExt": "",
-			"path":"https://raw.githubusercontent.com/siaistudio/Compasmodels/master/Amazonfavicon.jpg",
-      			"title":"Amazon India",
-			 "iD":"C001",
-			"directLoadUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/TestHybrid.json",
-			"isDirectLoad":true
-
-		},
-		{
-			"environment": "https://google.com/",
-			"defaultExt": "",
-			"path":"https://static-assets-web.flixcart.com/www/promos/new/20150528-140547-favicon-retina1.ico",
-      			"title":"Google",
-			 "iD":"C002",
-			"directLoadUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/TestHybrid.json",
-			"isDirectLoad":true
-		},
+		
 		{
 			"environment": "https://www.thechennaisilks.com/girls-pure-silk-pavadai-material-nla4489744.html",
 			"defaultExt": "",
@@ -48,13 +30,14 @@
 			"isDirectLoad":true
 		},
 		{
-			"environment": "https://www.candere.com/gold/womens-earrings.html",
+			"environment": "https://www.amazon.in/",
 			"defaultExt": "",
-			"path":"https://static-assets-web.flixcart.com/www/promos/new/20150528-140547-favicon-retina1.ico",
-      			"title":"Kalyan jewellers Earring",
-			 "iD":"C006",
+			"path":"https://raw.githubusercontent.com/siaistudio/Compasmodels/master/Amazonfavicon.jpg",
+      			"title":"Amazon India",
+			 "iD":"C001",
 			"directLoadUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/TestHybrid.json",
 			"isDirectLoad":true
+
 		},
 		{
 			"environment": "https://www.candere.com/necklaces/ahana-nivara-gold-necklace.html",
@@ -62,6 +45,24 @@
 			"path":"https://static-assets-web.flixcart.com/www/promos/new/20150528-140547-favicon-retina1.ico",
       			"title":"KALYAN jewellers Necklaces",
 			 "iD":"C007",
+			"directLoadUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/TestHybrid.json",
+			"isDirectLoad":true
+		},
+		{
+			"environment": "https://google.com/",
+			"defaultExt": "",
+			"path":"https://static-assets-web.flixcart.com/www/promos/new/20150528-140547-favicon-retina1.ico",
+      			"title":"Google",
+			 "iD":"C002",
+			"directLoadUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/TestHybrid.json",
+			"isDirectLoad":true
+		},
+		{
+			"environment": "https://www.candere.com/gold/womens-earrings.html",
+			"defaultExt": "",
+			"path":"https://static-assets-web.flixcart.com/www/promos/new/20150528-140547-favicon-retina1.ico",
+      			"title":"Kalyan jewellers Earring",
+			 "iD":"C006",
 			"directLoadUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/TestHybrid.json",
 			"isDirectLoad":true
 		}
