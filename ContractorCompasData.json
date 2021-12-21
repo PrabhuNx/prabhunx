@@ -6,7 +6,8 @@
 			"defaultExt": "",
 			"path":"https://raw.githubusercontent.com/siaistudio/Compasmodels/master/Amazonfavicon.jpg",
       			"title":"Amazon India",
-			"hybridModelBaseUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/DirectLoad.json",
+			 "iD":"C001",
+			"directLoadUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/TestHybrid.json",
 			"isDirectLoad":true
 
 		},
@@ -15,48 +16,54 @@
 			"defaultExt": "",
 			"path":"https://static-assets-web.flixcart.com/www/promos/new/20150528-140547-favicon-retina1.ico",
       			"title":"Google",
-			"hybridModelBaseUrl":"",
-			"isDirectLoad":false
+			 "iD":"C002",
+			"directLoadUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/TestHybrid.json",
+			"isDirectLoad":true
 		},
 		{
 			"environment": "https://www.thechennaisilks.com/girls-pure-silk-pavadai-material-nla4489744.html",
 			"defaultExt": "",
 			"path":"https://static-assets-web.flixcart.com/www/promos/new/20150528-140547-favicon-retina1.ico",
-      		"title":"Chennai Silks - Pure Silk Pavadai ",
-			"hybridModelBaseUrl":"",
-			"isDirectLoad":false
+      		         "title":"Chennai Silks - Pure Silk Pavadai ",
+			 "iD":"C003",
+			"directLoadUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/TestHybrid.json",
+			"isDirectLoad":true
 		},
 		{
 			"environment": "https://www.thechennaisilks.com/30799-arn-pur-fcy-jac-38827-6-0-0.html",
 			"defaultExt": "",
 			"path":"https://static-assets-web.flixcart.com/www/promos/new/20150528-140547-favicon-retina1.ico",
       			"title":"Chennai Silks - Sarees",
-			"hybridModelBaseUrl":"",
-			"isDirectLoad":false
+			 "iD":"C004",
+			"directLoadUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/TestHybrid.json",
+			"isDirectLoad":true
 		},
 		{
 			"environment": "https://www.oriana.com/jewellery/gold-jewellery/gold-necklaces/stylus-matt-finished-gold-balls-necklace-135a712900.html",
 			"defaultExt": "",
 			"path":"https://static-assets-web.flixcart.com/www/promos/new/20150528-140547-favicon-retina1.ico",
       			"title":"GRT NECKLACES",
-			"hybridModelBaseUrl":"",
-			"isDirectLoad":false
+			 "iD":"C005",
+			"directLoadUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/TestHybrid.json",
+			"isDirectLoad":true
 		},
 		{
 			"environment": "https://www.candere.com/gold/womens-earrings.html",
 			"defaultExt": "",
 			"path":"https://static-assets-web.flixcart.com/www/promos/new/20150528-140547-favicon-retina1.ico",
       			"title":"Kalyan jewellers Earring",
-			"hybridModelBaseUrl":"",
-			"isDirectLoad":false
+			 "iD":"C006",
+			"directLoadUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/TestHybrid.json",
+			"isDirectLoad":true
 		},
 		{
 			"environment": "https://www.candere.com/necklaces/ahana-nivara-gold-necklace.html",
 			"defaultExt": "",
 			"path":"https://static-assets-web.flixcart.com/www/promos/new/20150528-140547-favicon-retina1.ico",
       			"title":"KALYAN jewellers Necklaces",
-			"hybridModelBaseUrl":"",
-			"isDirectLoad":false
+			 "iD":"C007",
+			"directLoadUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/TestHybrid.json",
+			"isDirectLoad":true
 		}
 	],
 	"hotspotsEnable": true,
