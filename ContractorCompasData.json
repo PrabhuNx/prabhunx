@@ -6,7 +6,7 @@
 			"defaultExt": "",
 			"path":"https://raw.githubusercontent.com/siaistudio/Compasmodels/master/Amazonfavicon.jpg",
       			"title":"Amazon India",
-			"hybridModelBaseUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/TestHybrid.json",
+			"hybridModelBaseUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/DirectLoad.json",
 			"isDirectLoad":true
 
 		},
