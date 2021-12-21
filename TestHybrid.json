@@ -2,38 +2,143 @@
   "ProductData": [
     {
        "iD":"D001",
-      "webUrlName": "B00002N5HG",
-      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/B00002N5HG.json"
+      "webUrlName": "135a712900",
+      "hybridDataUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/135a712900.json"
     },
     {
        "iD":"D002",
-      "webUrlName": "Z7VG532DYDYC18JA49QJ",
-      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/Z7VG532DYDYC18JA49QJ.json"
+      "webUrlName": "38827",
+      "hybridDataUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/38827.json"
     },
     {
        "iD":"D003",
-      "webUrlName": "general-purpose-molded",
-      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/contractor_compas.json"
+      "webUrlName": "989898",
+      "hybridDataUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/989898.json"
     },
      {
         "iD":"D004",
-      "webUrlName": "sentron-molded-case-circuit-",
-      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/sentron.json"
+      "webUrlName": "4837414",
+      "hybridDataUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/4837414.json"
     },
      {
         "iD":"D005",
-      "webUrlName": "panelboards",
-      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/panelboard.json"
+      "webUrlName": "B00AFV4OWO",
+      "hybridDataUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B00AFV4OWO.json"
     },
     {
        "iD":"D006",
-      "webUrlName": "B00002N5HJ",
-      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/B00002N5HJ.json"
+      "webUrlName": "B01AWNV0QW",
+      "hybridDataUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B01AWNV0QW.json"
     },
     {
        "iD":"D007",
-      "webUrlName": "switches",
-      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/switches.json"
+      "webUrlName": "B01FX6ZDYI",
+      "hybridDataUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B01FX6ZDYI.json"
+    },
+	{
+       "iD":"D008",
+      "webUrlName": "B00002N5HG",
+      "hybridDataUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B00002N5HG.json"
+    },
+    {
+       "iD":"D009",
+      "webUrlName": "B06Y2BYQCC",
+      "hybridDataUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B06Y2BYQCC.json"
+    },
+    {
+       "iD":"D0010",
+      "webUrlName": "B07L95S8N6",
+      "hybridDataUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B07L95S8N6.json"
+    },
+     {
+        "iD":"D0011",
+      "webUrlName": "B07LBXVH4L",
+      "hybridDataUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B07LBXVH4L.json"
+    },
+     {
+        "iD":"D0012",
+      "webUrlName": "B07PT7L5KD",
+      "hybridDataUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B07PT7L5KD.json"
+    },
+    {
+       "iD":"D0013",
+      "webUrlName": "B08PNRB6MV",
+      "hybridDataUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B08PNRB6MV.json"
+    },
+    {
+       "iD":"D0014",
+      "webUrlName": "B08VWCTFZY",
+      "hybridDataUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B08VWCTFZY.json"
+    },
+	{
+       "iD":"D0015",
+      "webUrlName": "B09CKZQWSV",
+      "hybridDataUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B09CKZQWSV.json"
+    },
+	{
+       "iD":"D0016",
+      "webUrlName": "B09CM9Z4JW",
+      "hybridDataUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B09CM9Z4JW.json"
+    },
+	{
+       "iD":"D0017",
+      "webUrlName": "B09FHSJK8Q",
+      "hybridDataUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B09FHSJK8Q.json"
+    },
+    {
+       "iD":"D0018",
+      "webUrlName": "B06Y2BYQCC",
+      "hybridDataUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B06Y2BYQCC.json"
+    },
+    {
+       "iD":"D0019",
+      "webUrlName": "B010XWCKHA",
+      "hybridDataUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B010XWCKHA.json"
+    },
+     {
+        "iD":"D0020",
+      "webUrlName": "B084DN5V37",
+      "hybridDataUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B084DN5V37.json"
+    },
+     {
+        "iD":"D0021",
+      "webUrlName": "B084DN269N",
+      "hybridDataUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B084DN269N.json"
+    },
+    {
+       "iD":"D0022",
+      "webUrlName": "B085M5WKCW",
+      "hybridDataUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B085M5WKCW.json"
+    },
+    {
+       "iD":"D0023",
+      "webUrlName": "B093HB2HYW",
+      "hybridDataUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B093HB2HYW.json"
+    },
+	{
+       "iD":"D0024",
+      "webUrlName": "B094J7TZ93",
+      "hybridDataUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B094J7TZ93.json"
+    },
+	{
+       "iD":"D0025",
+      "webUrlName": "B0848LHW8N",
+      "hybridDataUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B0848LHW8N.json"
+    },
+	{
+       "iD":"D0026",
+      "webUrlName": "B0869SFVBY",
+      "hybridDataUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B0869SFVBY.json"
+    },
+	{
+       "iD":"D0027",
+      "webUrlName": "nla44897",
+      "hybridDataUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/nla44897.json"
+    },
+	{
+       "iD":"D0028",
+      "webUrlName": "nivara",
+      "hybridDataUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/nivara.json"
     }
   ]
 }
