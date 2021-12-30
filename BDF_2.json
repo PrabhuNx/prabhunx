@@ -37,16 +37,34 @@
           {
              
             "faceName": "Quad_1",
-            "faceImageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/3000_2.png"
+            "faceImageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/3000.png"
           },
           {
              
             "faceName": "Quad_2",
-            "faceImageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/3000_2.png"
+            "faceImageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/3000.png"
           }
         ],
         "subproduct":
          [    
+	   {
+                "childUrl": "_1",
+                "description": "TA:2442 & BA:2020",
+                "name": "North Facing",
+                "title": "North Facing 1"
+            },
+            {
+                "childUrl": "_2",
+                "description": "TA:2442 & BA:2020",
+                "name": "South Facing",
+                "title": "South Facing 2"
+            },
+			{
+                "childUrl": "_3",
+                "description": "TA:2442 & BA:2020",
+                "name": "North Facing",
+                "title": "North Facing 1"
+            }
             
           ]
       }
