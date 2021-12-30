@@ -1,7 +1,33 @@
 {
 
 	"url": [
-		
+		{
+			"environment": "https://www.youtube.com/playlist?list=PLQ_yne0osJF4bu9YRZXIaDKNXBc1vKQ8M",
+			"defaultExt": "",
+			"path":"https://www.youtube.com/favicon.ico",
+      		         "title":"Luxry villa 3000 to 5000 SqFt",
+			 "iD":"C003",
+			"directLoadUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/TestHybrid.json",
+			"isDirectLoad":true
+		},
+		{
+			"environment": "https://www.youtube.com/playlist?list=PLQ_yne0osJF4bu9YRZXIaDKNXBc1vKQ8M",
+			"defaultExt": "",
+			"path":"https://www.youtube.com/favicon.ico",
+      		         "title":"Traditional villa 3000 to 5000 SqFt",
+			 "iD":"C003",
+			"directLoadUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/TestHybrid.json",
+			"isDirectLoad":true
+		},
+		{
+			"environment": "https://www.youtube.com/playlist?list=PLQ_yne0osJF4bu9YRZXIaDKNXBc1vKQ8M",
+			"defaultExt": "",
+			"path":"https://www.youtube.com/favicon.ico",
+      		         "title":"Appartment 3000 to 7000 SqFt",
+			 "iD":"C003",
+			"directLoadUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/TestHybrid.json",
+			"isDirectLoad":true
+		},
 		{
 			"environment": "https://www.thechennaisilks.com/girls-pure-silk-pavadai-material-nla4489744.html",
 			"defaultExt": "",
