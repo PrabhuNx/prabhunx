@@ -16,10 +16,10 @@
        "markerUrl": "",
        "version": 1,
        "markerARProperties": {
-         "length": 50,
-         "pivotPosition": 0,
-         "width": 50,
-         "height": 50,
+         "length": 4,
+         "pivotPosition": 3,
+         "width": -1,
+         "height": 5,
          "xAngle": 0,
          "yAngle": 0,
          "zAngle": 0
@@ -36,7 +36,7 @@
        "baseProduct": [
          {
            "faceName": "saree",
-           "faceImageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/sareedesign1.JPG",
+           "faceImageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/nce0627313.png",
            "webUrl": "https://www.google.com/"
          },
          {
