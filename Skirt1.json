@@ -35,12 +35,12 @@
        },
        "baseProduct": [
          {
-           "faceName": "Quad_1",
+           "faceName": "Skirt1",
            "faceImageUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/busway_system.JPG",
            "webUrl": "https://www.google.com/"
          },
          {
-           "faceName": "Quad_2",
+           "faceName": "Skirt2",
            "faceImageUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/busway_system.JPG",
            "webUrl": "https://www.google.com/"
          }
