@@ -130,7 +130,7 @@
       "webUrlName": "B0869SFVBY",
       "hybridDataUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/B0869SFVBY.json"
     },
-	{
+   {
        "iD":"D0027",
       "webUrlName": "nla44897",
       "hybridDataUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/nla44897.json"
@@ -154,6 +154,31 @@
        "iD":"D0031",
       "webUrlName": "DKNXBc1vKQ8M&index=3",
       "hybridDataUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/BDF_1.json"
+    },
+   {
+       "iD":"D0032",
+      "webUrlName": "building1",
+      "hybridDataUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/building1.json"
+    },
+    {
+       "iD":"D0033",
+      "webUrlName": "skirt1",
+      "hybridDataUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/skirt1.json"
+    },
+    {
+       "iD":"D0034",
+      "webUrlName": "Tops1",
+      "hybridDataUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/Tops1.json"
+    },
+    {
+       "iD":"D0035",
+      "webUrlName": "Tops2",
+      "hybridDataUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/Tops2.json"
+    },
+    {
+       "iD":"D0036",
+      "webUrlName": "Tops3",
+      "hybridDataUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/Tops3.json"
     }
   ]
 }
