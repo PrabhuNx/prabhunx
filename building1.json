@@ -16,10 +16,10 @@
        "markerUrl": "",
        "version": 1,
        "markerARProperties": {
-         "length": 20,
+         "length": 50,
          "pivotPosition": 0,
-         "width": 100,
-         "height": 500,
+         "width": 150,
+         "height": 200,
          "xAngle": 0,
          "yAngle": 0,
          "zAngle": 0
