@@ -18,8 +18,8 @@
        "markerARProperties": {
          "length": 20,
          "pivotPosition": 0,
-         "width": 20,
-         "height": 100,
+         "width": 100,
+         "height": 50,
          "xAngle": 0,
          "yAngle": 0,
          "zAngle": 0
