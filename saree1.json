@@ -36,11 +36,11 @@
        "baseProduct": [
          {
            "faceName": "saree",
-           "faceImageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/sareedesign1.JPG",
+           "faceImageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/nce0627313.png",
            "webUrl": "https://www.google.com/"
          },
          {
-           "faceName": "Blouse",
+           "faceName": "Blouse1",
            "faceImageUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/busway_system.JPG",
            "webUrl": "https://www.google.com/"
          }
