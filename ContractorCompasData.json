@@ -117,7 +117,7 @@
 		    },
 		    {
 		      "parameter": "Event",
-		      "value": "Normal;Party;Casual;White"
+		      "value": "Normal;Party;Casual;Special"
 		    }
 		  ]
 }
