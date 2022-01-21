@@ -101,5 +101,23 @@
 	"minorversion":"5",
 	"modelUrlBase": "https://beta.compasquality.siemens-info.com/c3services/doc/d5/",
 	"androidModelUrlBase" : "https://raw.githubusercontent.com/siaistudio/Compasmodels/master/AndroidData.json",
-	"iOSModelUrlBase": "https://raw.githubusercontent.com/siaistudio/Compasmodels/master/iOSData.json"
+	"iOSModelUrlBase": "https://raw.githubusercontent.com/siaistudio/Compasmodels/master/iOSData.json",
+	 "SystemProperties": [
+		    {
+		      "parameter": "Height",
+		      "value": "150;160;170;180;190"
+		    },
+		    {
+		      "parameter": "Body",
+		      "value": "Lean;Normal;Athlete;BitFat;Fat"
+		    },
+		    {
+		      "parameter": "Color",
+		      "value": "Black;Brown;Fair;White"
+		    },
+		    {
+		      "parameter": "Event",
+		      "value": "Normal;Party;Casual;White"
+		    }
+		  ]
 }
